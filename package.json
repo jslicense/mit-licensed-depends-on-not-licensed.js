@@ -6,6 +6,6 @@
   "repository": "jslicense/mit-licensed-depends-on-not-licensed.js",
   "license": "MIT",
   "dependencies": {
-    "not-licensed": "^1.0.0"
+    "not-licensed": "1.0.0"
   }
 }
