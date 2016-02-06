@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "test package that is MIT-licensed and depends on a package without license metadata",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
-  "repository": "kemitchell/mit-licensed-depends-on-not-licensed.js",
+  "repository": "jslicense/mit-licensed-depends-on-not-licensed.js",
   "license": "MIT",
   "dependencies": {
     "not-licensed": "^1.0.0"
